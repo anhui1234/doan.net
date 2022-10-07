@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn6", "DoAn6\DoAn6.csproj", "{CFF838DD-5FA2-4AE7-A8F6-26EEA0B6B848}"
+	ProjectSection(ProjectDependencies) = postProject
+		{698059AF-4801-4922-A201-80046C07886A} = {698059AF-4801-4922-A201-80046C07886A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dulieu", "Dulieu\Dulieu.csproj", "{698059AF-4801-4922-A201-80046C07886A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF838DD-5FA2-4AE7-A8F6-26EEA0B6B848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF838DD-5FA2-4AE7-A8F6-26EEA0B6B848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF838DD-5FA2-4AE7-A8F6-26EEA0B6B848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF838DD-5FA2-4AE7-A8F6-26EEA0B6B848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698059AF-4801-4922-A201-80046C07886A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698059AF-4801-4922-A201-80046C07886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698059AF-4801-4922-A201-80046C07886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698059AF-4801-4922-A201-80046C07886A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A499EEF-E223-4132-8A54-B7C88A149F11}
+	EndGlobalSection
+EndGlobal
